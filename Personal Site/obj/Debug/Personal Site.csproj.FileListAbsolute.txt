@@ -1,0 +1,71 @@
+J:\Programming\GIT\personal-site\Personal Site\bin\Personal Site.dll.config
+J:\Programming\GIT\personal-site\Personal Site\bin\Personal Site.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Personal Site.pdb
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csc.exe
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csc.exe.config
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csc.rsp
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csi.exe
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csi.exe.config
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\csi.rsp
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.Managed.Core.targets
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.AppContext.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Collections.Immutable.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Console.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.IO.Compression.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.IO.FileSystem.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.IO.Pipes.AccessControl.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.IO.Pipes.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Reflection.Metadata.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.AccessControl.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Claims.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.ValueTuple.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Xml.XPath.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\vbc.exe
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\vbc.exe.config
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\vbc.rsp
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\VBCSCompiler.exe
+J:\Programming\GIT\personal-site\Personal Site\bin\roslyn\VBCSCompiler.exe.config
+J:\Programming\GIT\personal-site\Personal Site\bin\Antlr3.Runtime.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\AspNet.ScriptManager.bootstrap.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\AspNet.ScriptManager.jQuery.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.AspNet.FriendlyUrls.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.ScriptManager.MSAjax.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.ScriptManager.WebForms.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.Web.Infrastructure.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\Newtonsoft.Json.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\System.Web.Optimization.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\WebGrease.dll
+J:\Programming\GIT\personal-site\Personal Site\bin\System.Web.Optimization.xml
+J:\Programming\GIT\personal-site\Personal Site\bin\Newtonsoft.Json.xml
+J:\Programming\GIT\personal-site\Personal Site\bin\Antlr3.Runtime.pdb
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.AspNet.FriendlyUrls.xml
+J:\Programming\GIT\personal-site\Personal Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Programming\GIT\personal-site\Personal Site\obj\Debug\Personal Site.csprojAssemblyReference.cache
+J:\Programming\GIT\personal-site\Personal Site\obj\Debug\Personal Site.csproj.CoreCompileInputs.cache
+J:\Programming\GIT\personal-site\Personal Site\obj\Debug\Personal Site.csproj.CopyComplete
+J:\Programming\GIT\personal-site\Personal Site\obj\Debug\Personal Site.dll
+J:\Programming\GIT\personal-site\Personal Site\obj\Debug\Personal Site.pdb
