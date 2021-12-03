@@ -1,0 +1,119 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(34,34,34);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.card-head 
+{
+    margin-top: 2em;
+    margin-left: 25%;
+}
+
+.card-text
+{
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    text-indent: 2em;
+}
+
+.card-title
+{
+    text-align: center;
+}
+
+.card-bod
+{
+    margin-bottom: 2em;
+}
+
+.home-btns-cont
+{
+    margin: 2em 2em 2em 1em;
+}
+
+.jlo-vr-content
+{
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.jlo-vr-content .card-header
+{
+    text-align: center;
+    line-height: 2em;
+}
+
+.img-cont
+{
+    width: inherit;
+    height: inherit;
+    margin: 0em 20%;
+}
+
+.img-cont-2
+{
+    width: inherit;
+    height: inherit;
+    margin: 0em 25%;
+}
+
+.img-cont-3
+{
+    width: inherit;
+    height: inherit;
+    margin: 0em 25%;
+    align-self: center;
+}
+
+.instructing-card-text
+{
+    text-align: center;
+}
+
+.c-accord
+{
+    margin: 2em 2em;
+}
+
+.post-title h1
+{
+    font-size: xx-large;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.post-date p 
+{
+    margin: 1em 1em;
+    font-size: medium;
+    color: #555555;
+}
+
+.post-body p
+{
+    margin: 2em 2em;
+    text-align: left;
+    text-indent: 2em;
+}
+
+.post-body h2 
+{
+    margin: 1em 0em -0.05em 0em;
+    font-size: x-large;
+    color: lightgray;
+    text-align: center;
+}
+
+.bigbtn
+{
+    align-self: center;
+    margin: 2em 0em;
+}
